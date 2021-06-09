@@ -4,6 +4,13 @@
 
     class salut extends meteo{
 
+        /**
+         * salut extends meteo
+         * 
+         * 
+         * return json_encode($phrase);
+         */
+
         public function salutation($reponse){
             
             $prenom = $reponse;
